@@ -16,8 +16,8 @@ class Project extends Component {
                 <h3>Heels Shop</h3>
                 <img src={heelsImg} alt="Heels shop homescreen" />
                 <div className="project-links">
-                  <a href="">Github</a>
-                  <a href="">Besøk side</a>
+                  <a href="#">Github</a>
+                  <a href="#">Besøk side</a>
                 </div>
                 <p>
                   Heels er en e-commerce nettside bygd på Next.js, hvor Strapi
@@ -36,8 +36,8 @@ class Project extends Component {
                 <h3>Atlungstad Brenner</h3>
                 <img src={atlungstadImg} alt="Atlungstad Brenneri homescreen" />
                 <div className="project-links">
-                  <a href="">Github</a>
-                  <a href="">Besøk side</a>
+                  <a href="#">Github</a>
+                  <a href="#">Besøk side</a>
                 </div>
                 <p>
                   Atlungstad Brenneri er en restaurant nettside bygd på
@@ -56,8 +56,8 @@ class Project extends Component {
                 <h3>EarProof</h3>
                 <img src={earproofImg} alt="EarProof homescreen" />
                 <div className="project-links">
-                  <a href="">Github</a>
-                  <a href="">Besøk side</a>
+                  <a href="#">Github</a>
+                  <a href="#">Besøk side</a>
                 </div>
                 <p>
                 EarProof er en e-comers webside, bygd på Vanilla JavaScript, Sass og HTML. Strapi er brukt for å holde all API. 
