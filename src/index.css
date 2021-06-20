@@ -161,6 +161,33 @@ h2 {
 }
 
 
+/* PROJECTS */
+
+.portfolio-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.project-container {
+  width: 90%;
+}
+
+.project-container img {
+  width: 300px;
+  margin-bottom: 15px;
+}
+
+.project-container a {
+  text-decoration: none;
+  padding: 3%;
+  color: black;
+}
+
 
 
 

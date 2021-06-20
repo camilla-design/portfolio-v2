@@ -1,6 +1,7 @@
 import { Component } from "react";
 import profileImage from '../images/me-dark.png';
 import OmMeg from "../omMeg/OmMeg";
+import Project from "../project/Project";
 
 class Home extends Component {
     render() {
@@ -20,6 +21,7 @@ class Home extends Component {
         </div>
 
         <OmMeg />
+        <Project />
         
         </>
       );
