@@ -18,7 +18,6 @@ code {
   position: fixed;
   bottom: 0;
   display: flex;
-  justify-content: center;
   align-items: center;
   left: 0;
   right: 0;
@@ -27,7 +26,6 @@ code {
   text-align: center;
   position: absolute;
   bottom: 3%;
-  
   
 }
 .nav-container ul li{
@@ -41,7 +39,6 @@ code {
   border: 2px solid #EFEFF1;
   float: left;
   margin: 10px;
-  
 }
 
 .nav-container ul li .active {
