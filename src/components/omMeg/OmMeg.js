@@ -26,13 +26,13 @@ class OmMeg extends Component {
             <div className="wrapper">
                 <div className="container">
                     <div className="card">
-                        <img src={wwwImage } />
+                        <img src={wwwImage } alt="www icon"/>
                         <h3>Hjemmeside</h3>
                         <p>Fokus på rask og brukervennlig side med oversiktlig rent design. Samt grunnleggende søkermotoropptimalisering.</p>
                         <p className="code-experiense">HTML | CSS3 | JavaScript | Strapi.IO | React.js | Next.js</p>
                     </div>
                     <div className="card">
-                        <img src={wwwImage } />
+                        <img src={wwwImage } alt="pencel icon"/>
                         <h3>Design</h3>
                         <p>Fokus på hjemmeside design og skape en brand identitet.  Lage logo, finne farger og font som representerer kunden. Designet er rent, enkelt og lett å forstå og tiltalende.</p>
                         <p className="code-experiense">Adobe illustrator | Adobe Photoshop | Adobe XD | Figma</p>
