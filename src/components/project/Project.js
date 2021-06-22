@@ -1,7 +1,7 @@
 import { Component } from "react";
 import heelsImg from "../images/heels.png";
 import atlungstadImg from "../images/atlungstad.png";
-import earproofImg from '../images/earproof.png';
+import earproofImg from "../images/earproof.png";
 
 class Project extends Component {
   render() {
@@ -60,12 +60,11 @@ class Project extends Component {
                   <a href="#">Besøk side</a>
                 </div>
                 <p>
-                EarProof er en e-comers webside, bygd på Vanilla JavaScript, Sass og HTML. Strapi er brukt for å holde all API. 
+                  EarProof er en e-comers webside, bygd på Vanilla JavaScript,
+                  Sass og HTML. Strapi er brukt for å holde all API.
                 </p>
                 <p>
-                  <span>
-                  JavaScript | Sass | HTML | Strapi
-                  </span>
+                  <span>JavaScript | Sass | HTML | Strapi</span>
                 </p>
               </div>
             </div>
