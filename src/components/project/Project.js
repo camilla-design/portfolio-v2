@@ -25,8 +25,8 @@ class Project extends Component {
                 </p>
                 <p>
                   <span>
-                    Next.js | CSS Module | Strapi.IO | Amazone AWS | Heroku |
-                    Vercel | MongoDB | Formspree | Animasjon
+                    | Next.js | CSS Module | Strapi.IO | Amazone AWS | Heroku |
+                    Vercel | MongoDB | Formspree | Animasjon |
                   </span>
                 </p>
               </div>
@@ -45,8 +45,8 @@ class Project extends Component {
                 </p>
                 <p>
                   <span>
-                    React.js | Sass | Bootstrap | Strapi.IO | Amazon AWS |
-                    Heroku | Vercel | MongoDB | Formspree | Animasjon
+                    | React.js | Sass | Bootstrap | Strapi.IO | Amazon AWS |
+                    Heroku | Vercel | MongoDB | Formspree | Animasjon |
                   </span>
                 </p>
               </div>
@@ -64,7 +64,7 @@ class Project extends Component {
                   Sass og HTML. Strapi er brukt for å holde all API.
                 </p>
                 <p>
-                  <span>JavaScript | Sass | HTML | Strapi</span>
+                  <span>| JavaScript | Sass | HTML | Strapi |</span>
                 </p>
               </div>
             </div>
