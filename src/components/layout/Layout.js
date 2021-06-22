@@ -6,8 +6,7 @@ import {
   NavLink,
 } from "react-router-dom";
 import Home from "../home/Home";
-import OmMeg from '../omMeg/OmMeg';
-
+import OmMeg from "../omMeg/OmMeg";
 
 function Layout() {
   const [click, setClick] = useState(false);
@@ -18,8 +17,7 @@ function Layout() {
     <Router>
       <nav className="navigation">
         <div className="nav-container">
-          <NavLink to="/" className="nav-logo">
-          </NavLink>
+          <NavLink to="/" className="nav-logo"></NavLink>
           <ul class={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
               <NavLink
@@ -30,7 +28,6 @@ function Layout() {
                 onClick={handleClick}
               >
                 <i class="fas fa-home"></i>
-               
               </NavLink>
             </li>
             <li className="nav-item dropdown">
@@ -66,7 +63,7 @@ function Layout() {
                 <i class="fas fa-info-circle"></i>
               </NavLink>
             </li>
-            </ul>
+          </ul>
         </div>
       </nav>
       <Switch>
