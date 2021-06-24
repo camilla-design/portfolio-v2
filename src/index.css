@@ -189,14 +189,13 @@ h2 {
 
 .project-container a {
   text-decoration: none;
-  padding: 3%;
-  color: black;
+  padding: 5%;
+  background-color: black;
+  color: white;
+  border-radius: 3px;
 }
 
 
-
-
-/* DETAIL PAGE*/
 .project-links {
   display: flex;
   justify-content: space-between;
@@ -204,12 +203,19 @@ h2 {
   margin: 0 auto;
 }
 
+
+/* DETAIL PAGE*/
+
+
 .detailContainer a {
   text-decoration: none;
-  padding: 3%;
-  color: black;
+  padding: 5%;
+  background-color: black;
+  color: white;
+  border-radius: 3px;
 }
 .imgContainer img{
   width: 300px;
   border: 1px solid black;
+  margin-bottom: 10px;
 }

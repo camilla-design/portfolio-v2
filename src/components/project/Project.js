@@ -26,6 +26,7 @@ class Project extends Component {
                 </p>
                 <div className="project-links">
                   <a href="/heels-shop">Les mer</a>
+                  <a href="https://heels-shop.vercel.app">Besøk side</a>
                 </div>
               </div>
             </div>
@@ -44,6 +45,7 @@ class Project extends Component {
                 </p>
                 <div className="project-links">
                   <a href="#">Les mer</a>
+                  <a href="#">Besøk side</a>
                 </div>
               </div>
             </div>
@@ -60,6 +62,7 @@ class Project extends Component {
                 </p>
                 <div className="project-links">
                   <a href="#">Les mer</a>
+                  <a href="#">Besøk side</a>
                 </div>
               </div>
             </div>
