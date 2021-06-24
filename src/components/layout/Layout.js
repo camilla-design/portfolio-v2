@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import Home from "../home/Home";
 import OmMeg from "../omMeg/OmMeg";
+import Project from '../project/Project';
 
 function Layout() {
   const [click, setClick] = useState(false);
@@ -43,7 +44,7 @@ function Layout() {
             </li>
             <li className="nav-item dropdown">
               <NavLink
-                to="/prosjekt"
+                to="/prosjekter"
                 activeClassName="active"
                 exact
                 className="nav-link"
@@ -69,6 +70,7 @@ function Layout() {
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/om-meg" exact component={OmMeg} />
+        <Route path="/prosjekter" exact component={Project} />
       </Switch>
     </Router>
   );
