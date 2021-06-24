@@ -25,7 +25,7 @@ class Project extends Component {
                   </span>
                 </p>
                 <div className="project-links">
-                  <a href="#">Les mer</a>
+                  <a href="/heels-shop">Les mer</a>
                 </div>
               </div>
             </div>

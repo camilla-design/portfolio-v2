@@ -8,6 +8,7 @@ import {
 import Home from "../home/Home";
 import OmMeg from "../omMeg/OmMeg";
 import Project from '../project/Project';
+import HeelsShop from "../details/heelsShop/HeelsShop";
 
 function Layout() {
   const [click, setClick] = useState(false);
@@ -71,6 +72,7 @@ function Layout() {
         <Route path="/" exact component={Home} />
         <Route path="/om-meg" exact component={OmMeg} />
         <Route path="/prosjekter" exact component={Project} />
+        <Route path="/heels-shop" exact component={HeelsShop} />
       </Switch>
     </Router>
   );

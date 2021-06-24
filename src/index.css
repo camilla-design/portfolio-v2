@@ -196,3 +196,20 @@ h2 {
 
 
 
+/* DETAIL PAGE*/
+.project-links {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.detailContainer a {
+  text-decoration: none;
+  padding: 3%;
+  color: black;
+}
+.imgContainer img{
+  width: 300px;
+  border: 1px solid black;
+}
