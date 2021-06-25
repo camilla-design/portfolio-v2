@@ -62,7 +62,7 @@ class Project extends Component {
                 </p>
                 <div className="project-links">
                   <a href="#">Les mer</a>
-                  <a href="#">Besøk side</a>
+                  <a href="https://ear-proof.vercel.app/index.html">Besøk side</a>
                 </div>
               </div>
             </div>
